@@ -1,0 +1,57 @@
+﻿	<section id="contact-section" class="page text-white parallax" style="background-image: url(img/map-bg.jpg);">
+            <div class="cover"></div>
+            
+                 <!-- Begin page header-->
+                <div class="page-header-wrapper">
+                    <div class="container">
+                        <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
+                            <h2>Contacts</h2>
+                            <div class="devider"></div>
+                            <p class="subtitle">All to contact me</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- End page header-->
+                
+                <div class="contact wow bounceInRight" data-wow-delay="0.4s">
+                    <div class="container">
+                    	<div class="row">
+                        
+                            <div class="col-sm-6">
+                                <div class="contact-info">
+                                    <h4>My Address</h4>
+                                    <ul class="contact-address">
+			                            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; Spain,Barcelona ,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sagrera ,<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monlau</li>
+			                            <li><i class="fa fa-phone"></i>&nbsp; 619464557</li>
+			                          
+			                            <li><i class="fa fa-envelope"></i> raulmenmat@monlau.com</li>
+			                            <li><i class="fa fa-skype"></i> -</li>
+			                        </ul>
+                                </div>
+                            </div>
+                        
+                        	<div class="col-sm-6">
+                                <div class="contact-form">
+                                	<h4>Write me</h4>
+                                    <form asp-controller="Home" asp-action="metodoEmail" method="post" role="form">
+                                        <div class="form-group">
+                                            <input type="text" id="name" name="name" class="form-control input-lg" placeholder="Your Name" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="email" id="email" name="email" class="form-control input-lg" placeholder="E-mail" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" id="asunto" name="asunto" class="form-control input-lg" placeholder="Subject" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <textarea class="form-control id="mensaje" name="mensaje" input-lg" rows="5" placeholder="Message" required></textarea>
+                                        </div>
+                                        <button type="submit" class="btn wow bounceInRight" data-wow-delay="0.8s">Send</button>
+                                    </form>
+                                </div>	
+                            </div>
+                                                                                
+                        </div> <!-- /.row -->
+                    </div> <!-- /.container -->
+                </div>
+          </section>
