@@ -1,0 +1,46 @@
+﻿
+          <section id="services-section" class="page text-center">
+                <!-- Begin page header-->
+                <div class="page-header-wrapper">
+                    <div class="container">
+                        <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
+                            <h2>Projects</h2>
+                            <div class="devider"></div>
+                            <p class="subtitle">CLASES AND LOOPS - GERDARD</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- End page header-->
+            
+                <!-- Begin roatet box-2 -->
+                <div class="rotate-box-2-wrapper">
+                    <div class="container">
+                        <div class="row">
+
+                             @foreach (var item in ViewBag.Raul)
+                        {
+
+                            <div class="col-md-3 col-sm-6">
+                                <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0">
+                                    <span style="background-color:mediumpurple" class="rotate-box-icon"><i class="fa @item.ImageURL"></i></span>
+                                    <div class="rotate-box-info">
+                                        <h4>@item.Title</h4>
+                                        <p>@item.Description</p>
+                                    </div>
+                                </a>
+                            </div>
+                            }
+                            
+                        </div> <!-- /.row -->
+                    </div> <!-- /.container -->
+                    
+                   <!-- <div class="container">
+                        <!-- Cta Button 
+                        <div class="extra-space-l"></div>
+                        <div class="text-center">
+                    		<a class="btn btn-default btn-lg-xl" href="http://www.imransdesign.com/" target="_blank" role="button">Large Button</a>
+                        </div>-->
+                    </div> <!-- /.container -->                       
+                
+                <!-- End rotate-box-2 -->
+            </section>

@@ -2265,23 +2265,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Q Pasa bby\\.nuget\\packages\\": {},
+    "C:\\Users\\raulmenmat\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROYECTOS VISUAL 2022\\Web01\\Web01\\Web01.csproj",
+      "projectUniqueName": "E:\\PROYECTOS VISUAL 2022\\web01\\Web01\\Web01.csproj",
       "projectName": "Web01",
-      "projectPath": "D:\\PROYECTOS VISUAL 2022\\Web01\\Web01\\Web01.csproj",
-      "packagesPath": "C:\\Users\\Q Pasa bby\\.nuget\\packages\\",
-      "outputPath": "D:\\PROYECTOS VISUAL 2022\\Web01\\Web01\\obj\\",
+      "projectPath": "E:\\PROYECTOS VISUAL 2022\\web01\\Web01\\Web01.csproj",
+      "packagesPath": "C:\\Users\\raulmenmat\\.nuget\\packages\\",
+      "outputPath": "E:\\PROYECTOS VISUAL 2022\\web01\\Web01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Q Pasa bby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\raulmenmat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2347,7 +2347,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

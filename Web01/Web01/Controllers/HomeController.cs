@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Net.Mail;
 using Web01.Models;
+using Web01.Services;
 
 namespace Web01.Controllers
 {
@@ -16,6 +17,9 @@ namespace Web01.Controllers
 
         public IActionResult Index()
         {
+            
+            ViewBag.Raul = new RepositoryOfProject().GetProjects();
+
             return View();
         }
 

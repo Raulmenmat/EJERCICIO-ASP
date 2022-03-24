@@ -8,81 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web01
 build_property.RootNamespace = Web01
-build_property.ProjectDir = D:\PROYECTOS VISUAL 2022\Web01\Web01\
+build_property.ProjectDir = E:\PROYECTOS VISUAL 2022\web01\Web01\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PROYECTOS VISUAL 2022\Web01\Web01
+build_property.MSBuildProjectDirectory = E:\PROYECTOS VISUAL 2022\web01\Web01
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/About.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Carrousel.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Carrousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyb3VzZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Contact.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Counter.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Counter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3VudGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Cv.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Cv.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Index.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Portfolio.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Portfolio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Privacy.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Services.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/Social.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2NpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Home/TimeLine.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Home/TimeLine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW1lTGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Shared/Error.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Shared/_LoginPartial.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/_ViewImports.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/_ViewStart.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTOS VISUAL 2022/Web01/Web01/Views/Shared/_Layout.cshtml]
+[E:/PROYECTOS VISUAL 2022/web01/Web01/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hjmhpxzgma
